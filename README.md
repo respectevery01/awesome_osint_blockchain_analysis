@@ -427,3 +427,4 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Tornadocash after censorship](https://hackmd.io/@gozzy/tornado-cash-post-censorship) | A guide to bypass Tornadocash censorship  
 | [WEB3 is going great](https://web3isgoinggreat.com/) | Daily news about what's going wrong on Crypto and WEB3
 | [The Nerd in the high castle](https://thenerdinthehighcastle.wordpress.com) | OSINT and FORENSICS tutorial and articles
+| [Onchain Diary](https://theonchaindiary.com) | Web3 security education: a 230-term crypto scam and security glossary plus on-chain investigations with sourced case evidence |
